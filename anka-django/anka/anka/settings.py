@@ -26,7 +26,7 @@ SECRET_KEY = 'zn^1pr(zw9#yjt(d-r-vp(fj%--78m-$0ag(@yan_1g$cap%y3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['obend.pythonanywhere.com',]
 
 
 # Application definition
